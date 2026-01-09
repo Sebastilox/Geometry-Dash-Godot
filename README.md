@@ -13,6 +13,8 @@ Clone Of Geometry Dash Using Godot and GDScript
 - Music
 - Death SFX
 - High Optimization (3x FPS)
+- Text with font
+- Android Support (Might be buggy)
 
 # Disclamer
 Geometry Dash is owned by RobTop. This is a fan project, it doesn't make profit and it never will.
