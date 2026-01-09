@@ -1,5 +1,5 @@
 # Geometry-Dash-Godot
-Clone Of Geometry Dash Using Godot and GDScript
+An Open Source Clone Of Geometry Dash Using Godot and GDScript 
 <img width="1279" height="719" alt="Captura de pantalla 2026-01-09 161849" src="https://github.com/user-attachments/assets/593806e0-a145-43e9-bf12-a306cf1a9254" />
 
 
