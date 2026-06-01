@@ -4,6 +4,8 @@ An Open Source Clone Of Geometry Dash Using Godot and GDScript
 > [!Important]  
 > it's a terrible vibecoded recreation, i will never vibecode as i said before 
 
+any project after Undertale-For-Wii will not be vibecoded
+
 
 <img width="1279" height="719" alt="Captura de pantalla 2026-01-09 161849" src="https://github.com/user-attachments/assets/593806e0-a145-43e9-bf12-a306cf1a9254" />
 
